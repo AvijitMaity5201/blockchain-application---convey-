@@ -1,0 +1,77 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\Genes\\Documents\\Block09\\chains\\contracts\\blockapp.sol": {
+      "lastModificationDate": 1792172272136,
+      "contentHash": "99d833e5ebece55037ecd4fc5ed17967",
+      "sourceName": "contracts/blockapp.sol",
+      "solcConfig": {
+        "version": "0.8.24",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "evmVersion": "paris",
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.24"
+      ],
+      "artifacts": [
+        "blockapp"
+      ]
+    },
+    "C:\\Users\\Genes\\Documents\\conver application\\chains\\contracts\\blockapp.sol": {
+      "lastModificationDate": 1792446760755,
+      "contentHash": "40d396c46fee32a38824e78abb769831",
+      "sourceName": "contracts/blockapp.sol",
+      "solcConfig": {
+        "version": "0.8.24",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "evmVersion": "paris",
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.24"
+      ],
+      "artifacts": [
+        "blockapp"
+      ]
+    }
+  }
+}
